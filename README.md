@@ -42,7 +42,7 @@ To explore and utilize the Wanderlust app, follow these steps:
 
 4. Click the "Dislike" button on a card to remove the photo from your favorites.
 
-5. Navigate to the "Favorites" section to view all your liked photos.
+5. Navigate to the "Library" section to view all your liked photos.
 
 6. Click the "Delete" button on a favorite photo to remove it from your favorites.
 
